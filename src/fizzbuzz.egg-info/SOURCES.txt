@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+src/fizzbuzz.egg-info/PKG-INFO
+src/fizzbuzz.egg-info/SOURCES.txt
+src/fizzbuzz.egg-info/dependency_links.txt
+src/fizzbuzz.egg-info/top_level.txt
